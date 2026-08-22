@@ -46,7 +46,7 @@
     "react-hotkeys-hook": "~4.6.1",
     "react-intersection-observer": "~9.13.1",
     "react-quick-pinch-zoom": "~5.1.0",
-    "react-router-dom": "6.6.2",
+    "react-router-dom": "7.18.2",
     "string-length": "6.0.0",
     "swiped-events": "~1.2.0",
     "tinyld": "~1.3.4",
